@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_line);
 		body_layout = (FrameLayout) findViewById(R.id.body_layout);
 
-                //test_aaaaa
+                //Creating a new branch is quick and simple
 		// 初始化一个显示各个点的viewGroup
 		content = new ContentView(this, "75342619",new GestureCallBack() {
 

@@ -6,7 +6,7 @@ import com.seeyon.line.R;
 
 /**
  * 
- * @author zy
+ * @author zysdadas
  *
  */
 public class Point {
